@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "LineUp Server": {
+      "applicationId": "sWWA7lH4WOkO1AElRD7zjAkG50EdLRI4HITXDch4"
+    },
+    "_default": {
+      "link": "LineUp Server"
+    }
+  }
+}
